@@ -1,0 +1,54 @@
+## Interface: 120001
+## Title: MidnightUI
+## Notes: Messenger, Action Bars, Player Frame, and Market
+## Author: Oclyn
+## Version: 1.9.0
+## SavedVariables: MessengerDB, MidnightUISettings, MidnightUIDiagnosticsDB, MidnightUIAchCache, MidnightUIGuildRecruit, MidnightUI_MPI
+
+Bootstrap.lua
+Core.lua
+Diagnostics.lua
+Messenger.lua
+Settings.lua
+Settings_Keybinds.lua
+Settings_UI.lua
+Profiles.lua
+Welcome.lua
+Nameplates.lua
+ActionBars.lua
+PlayerTooltips.lua
+TargetPlayerTooltips.lua
+ConditionBorder.lua
+PlayerFrame.lua
+Market.lua
+TargetFrame.lua
+FocusFrame.lua
+PetFrame.lua
+CastBar.lua
+ConsumableBars.lua
+BagBar.lua
+InterfaceMenu.lua
+PartyFrames.lua
+RaidFrames.lua
+MainTankFrames.lua
+LootWindow.lua
+Minimap.lua
+MidnightWeeklyTracker.lua
+Map_Config.lua
+QuestLog_Config.lua
+QuestLog_Data.lua
+QuestLog_Panel.lua
+Map.lua
+QuestInterface.lua
+AchievementsPanel.lua
+CharacterPanel.lua
+GuildPanel.lua
+GuildRecruit.lua
+GroupFinder.lua
+db\mpi_sync.lua
+db\db_mpi_metadata.lua
+db\db_mpi_us.lua
+db\db_mpi_eu.lua
+db\db_mpi_kr.lua
+db\db_mpi_tw.lua
+MidnightPI.lua
